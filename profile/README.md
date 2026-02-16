@@ -1,9 +1,2 @@
-
-<img width="1024" height="581" alt="norexlogo" src="https://github.com/user-attachments/assets/36cfee80-e73e-4225-b04d-571d38e4e9ad" />
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img width="1439" height="576" alt="norex header" src="https://github.com/user-attachments/assets/ca41f973-9b55-4501-a153-000b2dd37a67" />
+<img width="1024" height="624" alt="org group-pic" src="https://github.com/user-attachments/assets/d194d635-8580-430d-9dfe-c2a40f505927" />

@@ -9,7 +9,7 @@
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white)](https://www.tiktok.com/@yourusername)
 [![Website](https://img.shields.io/badge/-Website-0A66C2?style=flat&logo=Google-Chrome&logoColor=white)](https://www.yourwebsite.com)
 
-# 🚀 Norex Digital Solutions
+# 🌌 Norex Digital Solutions
 
 Norex exists to do more than build digital solutions. It exists to spark transformation. In a world driven by ideas, we believe technology is the bridge between vision and reality. Every line of code we write, every platform we design, and every social strategy we craft is created with one goal to empower people, amplify ideas, and leave a lasting impact. We don’t just develop software, apps, or websites. we shape experiences. We help brands connect meaningfully with their audience, inspire action, and grow beyond what they thought was possible. At Norex, the future is not something we wait for we create it. Innovation, creativity, and integrity guide every decision, ensuring that everything we build is purposeful, transformative, and human-centered. In essence, Norex is where ideas meet innovation, and ambition meets reality. 😇
 
@@ -35,12 +35,14 @@ Norex exists to do more than build digital solutions. It exists to spark transfo
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-333333?style=flat&logo=microsoft-access&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
 
 ---
 ## 🌟 Our Vision
